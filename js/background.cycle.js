@@ -103,7 +103,7 @@ $.fn.backgroundCycle = function(options) {
     image.css({
       "background-image": "url('" + src + "')",
       "background-repeat": "no-repeat",
-      "background-position": "bottom",
+      "background-position": "top",
       "background-size": sizeMode,
       "-moz-background-size": sizeMode,
       "-webkit-background-size": sizeMode,
